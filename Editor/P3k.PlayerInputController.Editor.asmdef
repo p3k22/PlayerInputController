@@ -1,0 +1,19 @@
+{
+    "name": "P3k.PlayerInputController.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6eed89af605908244bc3abdd35ec9139",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

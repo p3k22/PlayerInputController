@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2261c8956fec7439bbe51b5d17b246, type: 3}
+  m_Name: DefaultInputKeyDefinitions
+  m_EditorClassIdentifier: P3k.PlayerInputController::P3k.PlayerInputController.InputKeyDefinitionAsset
+  _definitions:
+  - Name: Move
+    IsAxis: 1
+  - Name: Look
+    IsAxis: 1
+  - Name: Interact01
+    IsAxis: 0
+  - Name: Interact02
+    IsAxis: 0
+  - Name: Run
+    IsAxis: 0
+  - Name: Jump
+    IsAxis: 0
+  - Name: Crouch
+    IsAxis: 0

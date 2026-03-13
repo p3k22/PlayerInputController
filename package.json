@@ -1,0 +1,14 @@
+{
+  "name": "com.p3k.playerinputcontroller",
+  "version": "1.0.0",
+  "displayName": "Player Input Controller",
+  "description": "Lightweight wrapper around Unity's Input System that maps named actions to polled ButtonState and AxisState objects. Supports ScriptableObject binding profiles, dynamic runtime registration, and a circular input buffer with debug GUI.",
+  "unity": "2020.1",
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.0"
+  },
+  "documentationUrl": "https://github.com/p3k22/PlayerInputController/#readme",
+  "author": {
+    "name": "P3k"
+  }
+}
